@@ -1,0 +1,1 @@
+{"version":"1.0.0","name":"task-manager","dependencies":{"express":{"version":"4.16.4"},"mongodb":{"version":"3.7.3"},"mongoose":{"version":"5.3.16"},"validator":{"version":"10.9.0"}}}
